@@ -1,0 +1,15 @@
+C:\Users\dorot\Desktop\BIT\.NET\code\GetAndAPIApp\Services_aka_Domain\bin\Debug\net5.0\Services_aka_Domain.deps.json
+C:\Users\dorot\Desktop\BIT\.NET\code\GetAndAPIApp\Services_aka_Domain\bin\Debug\net5.0\Services_aka_Domain.dll
+C:\Users\dorot\Desktop\BIT\.NET\code\GetAndAPIApp\Services_aka_Domain\bin\Debug\net5.0\ref\Services_aka_Domain.dll
+C:\Users\dorot\Desktop\BIT\.NET\code\GetAndAPIApp\Services_aka_Domain\bin\Debug\net5.0\Services_aka_Domain.pdb
+C:\Users\dorot\Desktop\BIT\.NET\code\GetAndAPIApp\Services_aka_Domain\bin\Debug\net5.0\Persistence.dll
+C:\Users\dorot\Desktop\BIT\.NET\code\GetAndAPIApp\Services_aka_Domain\bin\Debug\net5.0\Persistence.pdb
+C:\Users\dorot\Desktop\BIT\.NET\code\GetAndAPIApp\Services_aka_Domain\obj\Debug\net5.0\Services_aka_Domain.csproj.AssemblyReference.cache
+C:\Users\dorot\Desktop\BIT\.NET\code\GetAndAPIApp\Services_aka_Domain\obj\Debug\net5.0\Services_aka_Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dorot\Desktop\BIT\.NET\code\GetAndAPIApp\Services_aka_Domain\obj\Debug\net5.0\Services_aka_Domain.AssemblyInfoInputs.cache
+C:\Users\dorot\Desktop\BIT\.NET\code\GetAndAPIApp\Services_aka_Domain\obj\Debug\net5.0\Services_aka_Domain.AssemblyInfo.cs
+C:\Users\dorot\Desktop\BIT\.NET\code\GetAndAPIApp\Services_aka_Domain\obj\Debug\net5.0\Services_aka_Domain.csproj.CoreCompileInputs.cache
+C:\Users\dorot\Desktop\BIT\.NET\code\GetAndAPIApp\Services_aka_Domain\obj\Debug\net5.0\Services_aka_Domain.csproj.CopyComplete
+C:\Users\dorot\Desktop\BIT\.NET\code\GetAndAPIApp\Services_aka_Domain\obj\Debug\net5.0\Services_aka_Domain.dll
+C:\Users\dorot\Desktop\BIT\.NET\code\GetAndAPIApp\Services_aka_Domain\obj\Debug\net5.0\ref\Services_aka_Domain.dll
+C:\Users\dorot\Desktop\BIT\.NET\code\GetAndAPIApp\Services_aka_Domain\obj\Debug\net5.0\Services_aka_Domain.pdb
