@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0XHx8p9n/CsqtgcJF2TAlnyfZP9uY1kTdk8FwzbegpshHAF7Vb0iCWhSHCYUhAUag9zFohAf8PKFW/IftS0D8w==",
+  "dgSpecHash": "gF+XtqSu3GwDOTwu6Zs2a48uadOqOpdqzmWDqwWIgoIUqaMCodTMN3IozIuscBCQfkx85ITOpOV265KoTlc0jQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dorot\\Desktop\\BIT\\.NET\\code\\GetAndAPIApp\\Services_aka_Domain\\Services_aka_Domain.csproj",
+  "projectFilePath": "C:\\Users\\dorot\\Desktop\\BIT\\.NET\\code\\QuoteApp\\Services_aka_Domain\\Services_aka_Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dorot\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
     "C:\\Users\\dorot\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",

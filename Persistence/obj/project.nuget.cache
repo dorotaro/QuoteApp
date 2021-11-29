@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LmB+lpYcW93URZkawOOcsdAlKSP/Hg9yM/SjPB9dlhPJX1hlj93wsZzecJFjHmE1OUrdHuojFTsViFeyMJ63og==",
+  "dgSpecHash": "o+aMBpetAPXdM2VzHWe9mF8/I+nycGYeOpNlr8xytXSuZJ4zA8ca2lvsCD2jI9dVrR32ku8/MqK5oLSqrFQs2Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dorot\\Desktop\\BIT\\.NET\\code\\GetAndAPIApp\\Persistence\\Persistence.csproj",
+  "projectFilePath": "C:\\Users\\dorot\\Desktop\\BIT\\.NET\\code\\QuoteApp\\Persistence\\Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dorot\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
     "C:\\Users\\dorot\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",

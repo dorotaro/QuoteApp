@@ -3256,11 +3256,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dorot\\Desktop\\BIT\\.NET\\code\\GetAndAPIApp\\Services_aka_Domain\\Services_aka_Domain.csproj",
+      "projectUniqueName": "C:\\Users\\dorot\\Desktop\\BIT\\.NET\\code\\QuoteApp\\Services_aka_Domain\\Services_aka_Domain.csproj",
       "projectName": "Services_aka_Domain",
-      "projectPath": "C:\\Users\\dorot\\Desktop\\BIT\\.NET\\code\\GetAndAPIApp\\Services_aka_Domain\\Services_aka_Domain.csproj",
+      "projectPath": "C:\\Users\\dorot\\Desktop\\BIT\\.NET\\code\\QuoteApp\\Services_aka_Domain\\Services_aka_Domain.csproj",
       "packagesPath": "C:\\Users\\dorot\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dorot\\Desktop\\BIT\\.NET\\code\\GetAndAPIApp\\Services_aka_Domain\\obj\\",
+      "outputPath": "C:\\Users\\dorot\\Desktop\\BIT\\.NET\\code\\QuoteApp\\Services_aka_Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dorot\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3277,8 +3277,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\dorot\\Desktop\\BIT\\.NET\\code\\GetAndAPIApp\\Persistence\\Persistence.csproj": {
-              "projectPath": "C:\\Users\\dorot\\Desktop\\BIT\\.NET\\code\\GetAndAPIApp\\Persistence\\Persistence.csproj"
+            "C:\\Users\\dorot\\Desktop\\BIT\\.NET\\code\\QuoteApp\\Persistence\\Persistence.csproj": {
+              "projectPath": "C:\\Users\\dorot\\Desktop\\BIT\\.NET\\code\\QuoteApp\\Persistence\\Persistence.csproj"
             }
           }
         }
